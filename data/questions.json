@@ -1,0 +1,228 @@
+{
+    "quiz":[
+            {
+                "question":"What is considered to be a personal information and should not be shared to the public?",
+                "options":[
+                    "Date of Birth",
+                    "Address",
+                    "Phone Number",
+                    "All of the above"
+                ],
+                "answer":"All of the above"
+            },
+            {
+                "question":"Your friend wants to use your email address to sign up for a website. What should you do?",
+                "options":[
+                    "Share password to friend",
+                    "No passwords are meant to be secret"
+                ],
+                "answer":"No passwords are meant to be secret"
+            },
+            {
+                "question":"What is best password practice?",
+                "options":[
+                    "Use the same password for all accounts",
+                    "Use a password that is easy to remember",
+                    "Use a password that is hard to guess",
+                    "Use a password that is easy to guess"
+                ],
+                "answer":"Use a password that is hard to guess"
+            },
+            {
+                "question":"You are working on you laptop in a public, yet safe place and you need to leave for a few minutes. What should you do?",
+                "options":[
+                    "Leave your laptop open",
+                    "Lock your laptop",
+                    "Turn off your laptop"
+                ],
+                "answer":"Lock your laptop"
+            },
+            {
+                "question":"What is the best way to protect your computer from viruses?",
+                "options":[
+                    "Install an antivirus software",
+                    "Don't use the internet",
+                    "Don't use a computer"
+                ],
+                "answer":"Install an antivirus software"
+            },
+            {
+                "question":"Your friend forwards an email to you containing a link to a website to download a free game. What should you do?",
+                "options":[
+                    "Click on the link",
+                    "Ignore the email",
+                    "Ask your friend if the website is safe and prevent them from clicking on the link"
+                ],
+                "answer":"Ask your friend if the website is safe and prevent them from clicking on the link"
+            },
+            {
+                "question":"You are in public place with free wifi. You want to enter your password to a secure account such as email or bank account. What should you do?",
+                "options":[
+                    "Enter your password",
+                    "Don't enter your password and wait until you get home",
+                    "Enter your password but hide your screen"
+                ],
+                "answer":"Don't enter your password and wait until you get home"
+            },
+            {
+                "question":"You get a message on social media from a famous superhero asking you to send money for a donation. What should you do?",
+                "options":[
+                    "Send money",
+                    "Ignore the message",
+                    "Ask your friend if this is geniune",
+                    "Ask a parent or guardian if the message is real"
+                ],
+                "answer":"Ask a parent or guardian if the message is real"
+            },
+            {
+                "question":"What is a good way to create passwords?",
+                "options":[
+                    "Use your name as a password",
+                    "Use a combination of letters, numbers, and symbols with length of 8 or more characters",
+                    "Use a password that is easy to guess",
+                    "Use your pets name as a password"
+                ],
+                "answer":"Use a combination of letters, numbers, and symbols with length of 8 or more characters"
+            },
+            {
+                "question":"You are on a website and you see a pop-up that says you have won a free trip. What should you do?",
+                "options":[
+                    "Click on the pop-up",
+                    "Ignore the pop-up"
+                ],
+                "answer":"Ignore the pop-up"
+            },
+            {
+                "question":"Your computer recently start running slow and low on disk space without downloading anything. You tried restarting the computer, but it did not help much. What should you do?",
+                "options":[
+                    "Ignore the problem as it is normal",
+                    "Delete some files to free up space",
+                    "Ask a parent or guardian for help"
+                ],
+                "answer":"Ask a parent or guardian for help"
+            },
+            {
+                "question":"What should you avoid while browsing the internet?",
+                "options":[
+                    "Clicking on pop-ups",
+                    "Downloading files from unknown sources",
+                    "Sharing personal information",
+                    "All of the above"
+                ],
+                "answer":"All of the above"
+            },
+            {
+                "question":"Which of the following is a definite way to confirm if a website is not secure?",
+                "options":[
+                    "The website has https:// in the URL",
+                    "The website has a lock icon in the URL",
+                    "The website has a warning sign in the URL",
+                    "The website has a green checkmark in the URL"
+                ],
+                "answer":"The website has a warning sign in the URL"
+            },
+            {
+                "question":"You see an ad that says the latest gaming console is on sale with 90% discount. What should you do?",
+                "options":[
+                    "Click on the ad as you have been waiting for the console",
+                    "Ignore the ad as it is too good to be true"
+                ],
+                "answer":"Ignore the ad as it is too good to be true"
+            },
+            {
+                "question":"Who is responsible for your online safety?",
+                "options":[
+                    "Your parents",
+                    "Your teachers",
+                    "You",
+                    "Your friends"
+                ],
+                "answer":"You"
+            },
+            {
+                "question":"You can download any game you want from the internet if you have antivirus installed in your system.",
+                "options":[
+                    "True",
+                    "False"
+                ],
+                "answer":"False"
+            },
+            {
+                "question":"You should never share your password with anyone.",
+                "options":[
+                    "True",
+                    "False"
+                ],
+                "answer":"True"
+            },
+            {
+                "question":"You should always keep your computer updated with the latest software.",
+                "options":[
+                    "True",
+                    "False"
+                ],
+                "answer":"True"
+            },
+            {
+                "question":"You should always share your personal information with anyone who asks for it.",
+                "options":[
+                    "True",
+                    "False"
+                ],
+                "answer":"False"
+            },
+            {
+                "question":"You should always click on pop-ups that say you have won a prize.",
+                "options":[
+                    "True",
+                    "False"
+                ],
+                "answer":"False"
+            },
+            {
+                "question":"You are new to the social media network and you see a new game that predicts which car will you have in 5 years but asks for personal information. What should you do?",
+                "options":[
+                    "Enter your personal information as the social media network is popular",
+                    "Ignore the game"
+                ],
+                "answer":"Ignore the game"
+            },
+            {
+                "question":"How can you protect your accounts in better way?",
+                "options":[
+                    "Use different passwords for different accounts",
+                    "Use 2 factor authentication",
+                    "Do not write down your passwords",
+                    "All of the above"
+                ],
+                "answer":"All of the above"
+            },
+            {
+                "question":"You get a SMS from an unknown number that says your package is delayed and click on the URL to confirm you still want the package. What should you do?",
+                "options":[
+                    "Click on the URL as you ordered a package recently",
+                    "Ignore the SMS",
+                    "Check the account you ordered the package from and track the package from official website"
+                ],
+                "answer":"Check the account you ordered the package from and track the package from official website"
+            },
+            {
+                "question":"Someone from your social media network asks for your address to send you a gift. What should you do?",
+                "options":[
+                    "Share your address",
+                    "Ask a parent or guardian if it is safe to share your address",
+                    "Ignore the message"
+                ],
+                "answer":"Ask a parent or guardian if it is safe to share your address"
+            },
+            {
+                "question":"Someone on your social media network is being mean to you. What should you do?",
+                "options":[
+                    "Be mean back",
+                    "Ignore the person",
+                    "Ask a parent or guardian for help"
+                ],
+                "answer":"Ask a parent or guardian for help"
+            }
+    ]
+}
