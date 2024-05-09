@@ -141,7 +141,7 @@ const Home = () => {
                 {/* Radio buttons */}
                 <RadioGroup onValueChange={onValueChange}>
                     {quizData[idx].options.map((option, idx) => (
-                        <div className="flex flex-row space-x-3 space-y-4">
+                        <div key={idx} className="flex flex-row space-x-3 space-y-4">
                             <div className="flex items-center space-x-3">
                                 <RadioGroupItem value={option} key={idx} className="bg-slate-100"/>
                                 <Label className="text-xl text-slate-200">{option}</Label>
